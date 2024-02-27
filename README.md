@@ -1,6 +1,7 @@
 ## Requirements
 
 ```
+py -3.10 -m venv ./env 
 python > 3.9
 ```
 ## Installation
