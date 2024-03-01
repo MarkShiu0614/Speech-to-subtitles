@@ -44,4 +44,9 @@ OUTPUT FORMAT 輸出檔案格式設定
 ```
 --output_format {txt,vtt,srt,tsv,json,all}, -f {txt,vtt,srt,tsv,json,all}
 ```
+language 輸出中文問題
+```
+--initial_prompt "此為繁體中文的句子"  # traditional
+--initial_prompt "此为简体中文的句子"  # simplified
+```
 
