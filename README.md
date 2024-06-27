@@ -7,7 +7,7 @@ py -3.10 -m venv ./env
 ## Installation
 
 Download
-ffmpeg-6.1.1-full_build.7z (解壓縮至 C:\Program Files 並加入環境變數中)
+ffmpeg-6.1.1-full_build.7z (解壓縮至 C:\Program Files 並將 bin 加入環境變數中)
 - 檢查是否安裝成功：`ffmpeg -version`
 
 - https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-github
